@@ -1,10 +1,8 @@
 # SoftwareStore
 University Project Exam: Database 
 
- (Parthenope University of Naples) .
-
 SoftwareStore (called "NegozioSoftware" in the project), is a prototype database for an online store that sells software. It is a project of the 
-<br>(<a href="https://www.uniparthenope.it/ugov/degreecourse/39970"><i><b>DATABASE</i></b></a> - course of the <b><i><a href="https://www.uniparthenope.it/">Parthenope University of Naples</a></i></strong>). This project was implemented in July 2020.
+<a href="https://www.uniparthenope.it/ugov/degreecourse/39970"><i><b>DATABASE</i></b></a> - course of the <b><i><a href="https://www.uniparthenope.it/">Parthenope University of Naples</a></i></strong>. This project was implemented in July 2020.
 
 
 <h3><p align="center">conceptual diagram</p></h3>
